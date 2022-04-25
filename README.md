@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Manan</h1>
-<h3 align="center">Engineer</h3>
+
 
 - 🌱 I’m currently learning **React**
 
