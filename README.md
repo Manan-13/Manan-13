@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Manan</h1>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **gmanan3222@gmail.com**
 
