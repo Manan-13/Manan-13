@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **gmanan3222@gmail.com**
+- 📫 Reach me at : **gmanan3222@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
