@@ -21,5 +21,5 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
            alt="SQL" width="40" height="40" /> </a>
           
-          </p>
+          
 
