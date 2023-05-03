@@ -5,7 +5,7 @@
 - 
 <h2 Programming for fun ! </h2>
 
-- 🌱  Welcome to my Github.
+- 🌱 Welcome.
 
 
 
