@@ -1,11 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Manan</h1>
+- 📫 Reach me at : **gmanan3222@gmail.com**
+- 
 <h2 Programming for fun ! </h2>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱  Welcome to my Github.
 
-- 📫 Reach me at : **gmanan3222@gmail.com**
+
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
