@@ -21,9 +21,8 @@
 
 I regularly solve DSA problems to sharpen my problem-solving and coding skills.
 
-<a href="https://leetcode.com/u/gmanan3222" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="160" alt="LeetCode Profile"/>
-</a>
+[![LeetCode user](https://img.shields.io/badge/LeetCode-Manan-orange)](https://leetcode.com/u/gmanan3222)
+
 ---
 
 ### 💻 Tech Stack
