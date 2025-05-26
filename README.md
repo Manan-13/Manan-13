@@ -17,6 +17,12 @@
 - 📧 Email: **gmanan3222@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/manan-g-a69a71192/)
 
+### 📊 LeetCode Practice
+
+I regularly solve DSA problems to sharpen my problem-solving and coding skills.
+
+[![LeetCode user](https://img.shields.io/badge/LeetCode-Manan-orange)](https://leetcode.com/u/gmanan3222)
+
 ---
 
 ### 💻 Tech Stack
